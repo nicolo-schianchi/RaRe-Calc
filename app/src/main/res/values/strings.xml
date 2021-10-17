@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RaRe Calc</string>
+    <string name="dashboard_text">Dashboard</string>
+    <string name="home_text">Home</string>
+
+    <string-array name="temp_units">
+        <item>°F</item>
+        <item>°C</item>
+    </string-array>
+    
+    <string name="go_to_main_activity">GO TO MAIN ACTIVITY</string>
+    <string name="go_to_second_activity">GO TO SECOND ACTIVITY</string>
+</resources>

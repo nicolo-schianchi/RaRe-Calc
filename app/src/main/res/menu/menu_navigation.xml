@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:title="VO₂ Max"
+        android:icon="@drawable/ic_vo2_max"/>
+
+    <item
+        android:id="@+id/home"
+        android:title="Race To Race"
+        android:icon="@drawable/ic_race_to_race"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="Heat"
+        android:icon="@drawable/ic_heat_adjustment"/>
+
+</menu>

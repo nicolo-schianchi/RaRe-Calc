@@ -1,0 +1,2 @@
+rootProject.name='Race Prediction Calculator'
+include ':app'
